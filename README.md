@@ -1,9 +1,9 @@
-#Mini project Expanding Cards
+# Mini project Expanding Cards
 
-##Technologies used
+## Technologies used
 *HTML
 *CSS
 \*JavaScript
 
-##Demo
+## Demo
 [Live Preview]()
